@@ -1036,6 +1036,12 @@ div.bl-panel-items>div>div {
     border: 8px solid #fff;
 }
 
+
+.tech-logos-container {
+    height: 100vh;
+    overflow-y: auto;
+}
+
 /******** WORKS SECTION START ********/
 
 div.bl-panel-items,
