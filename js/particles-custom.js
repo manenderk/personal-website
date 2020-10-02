@@ -7,7 +7,7 @@ new Particles(document.getElementById("particles"), {
     },
 
     // density of particles on the canvas
-    density: 600,  
+    density: 1000,  
 
     // speed of the particules
     speed: 0.50, 
